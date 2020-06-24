@@ -12,3 +12,10 @@ h1 {
 .form-inline {
     margin: auto;
 }
+
+.quotes{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+
